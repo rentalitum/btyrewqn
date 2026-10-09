@@ -148,7 +148,7 @@ function RootContent() {
             <ShieldAlert color={colors.error} size={64} style={{ marginBottom: SIZES.md }} />
             <Text style={[styles.errorTitle, { color: colors.textPrimary }]}>Secure Storage Inaccessible</Text>
             <Text style={[styles.errorSubtitle, { color: colors.textSecondary }]}>
-              PocketPay was unable to retrieve your wallet secret. This can happen due to device restrictions, locked keystore/keychain, or missing permissions.
+              btyrewqn was unable to retrieve your wallet secret. This can happen due to device restrictions, locked keystore/keychain, or missing permissions.
             </Text>
 
             <View style={[styles.guidanceCard, { backgroundColor: colors.surface, borderColor: colors.border }]}>

@@ -1,6 +1,6 @@
-# Contributing to PocketPay Mobile
+# Contributing to btyrewqn
 
-Thank you for your interest in contributing to PocketPay Mobile! We welcome pull requests, bug reports, and feature requests from everyone.
+Thank you for your interest in contributing to btyrewqn! We welcome pull requests, bug reports, and feature requests from everyone.
 
 ---
 
@@ -41,8 +41,8 @@ Before you begin, make sure you have the following installed on your machine:
 1. **Fork** the repository on GitHub, then clone your fork locally:
 
    ```bash
-   git clone https://github.com/<your-username>/pocketpay-mobile.git
-   cd pocketpay-mobile
+   git clone https://github.com/<your-username>/btyrewqn.git
+   cd btyrewqn
    ```
 
 2. **Install dependencies.** This project requires the `--legacy-peer-deps` flag due to React Native peer dependency conflicts:
@@ -90,7 +90,7 @@ npm run web       # Launch in a browser (limited support)
 ## Project Structure
 
 ```
-pocketpay-mobile/
+btyrewqn/
 ├── app/                  # Expo Router screens (file-based routing)
 │   ├── (auth)/           # Auth flow: welcome, create wallet, import wallet
 │   └── (tabs)/           # Main tab navigation: home, history, vault, settings

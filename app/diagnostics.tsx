@@ -103,7 +103,7 @@ export default function DiagnosticsScreen() {
   // Gather diagnostic information
   const appVersion = Constants.expoConfig?.version || '1.0.0';
   const sdkVersion = Constants.expoConfig?.sdkVersion || 'Unknown';
-  const appName = Constants.expoConfig?.name || 'stellar-pocketpay-mobile';
+  const appName = Constants.expoConfig?.name || 'btyrewqn';
 
   const stellarNetwork = process.env.EXPO_PUBLIC_STELLAR_NETWORK || 'TESTNET';
   const horizonUrl = process.env.EXPO_PUBLIC_STELLAR_HORIZON_URL;

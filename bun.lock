@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "stellar-pocketpay-mobile",
+      "name": "btyrewqn",
       "dependencies": {
         "@react-native-async-storage/async-storage": "2.2.0",
         "@stellar/stellar-sdk": "^12.2.0",

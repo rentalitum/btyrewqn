@@ -156,7 +156,7 @@ export default function SettingsScreen() {
         </View>
 
         <View style={styles.footer}>
-          <Text style={styles.footerText}>Stellar PocketPay v1.0.0</Text>
+          <Text style={styles.footerText}>btyrewqn v1.0.0</Text>
           <Text style={styles.footerText}>Network: Testnet</Text>
         </View>
       </ScrollView>

@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "stellar-pocketpay-mobile",
-    "slug": "stellar-pocketpay-mobile",
+    "name": "btyrewqn",
+    "slug": "btyrewqn",
     "version": "1.0.0",
-    "scheme": "stellar-pocketpay",
+    "scheme": "btyrewqn",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
